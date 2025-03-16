@@ -1,0 +1,2 @@
+(this["webpackJsonplain-tsx"]=this["webpackJsonplain-tsx"]||[]).push([[5399],{6949:function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/media/\u30f3_\u30d5\u30a7.c9dee3f5.mp4"}}]);
+//# sourceMappingURL=5399.84899534.chunk.js.map
